@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "Homemade Pumpkin Cream Cold Foam Cold Brew Coffee",
+      "description": "Pumpkin cream cold foam is a mix of sweetened heavy cream with vanilla syrup and pumpkin sauce frothed together so it becomes velvety and thick but pourable. It’s nothing like the consistency of whipped cream, more of a thick, melted ice cream texture. If you live for pumpkin spice season, pumpkin cream cold foam is going to be your jam.\n\nTo be honest, pumpkin cream tastes amazing on all drinks and even as a sauce for ice cream or cake. Try it on: iced coffee, cold brew, hot coffee, espresso, lattes, and iced tea.Enjoy the pumpkin spice life!",
+      "published": true,
+      "id": 1
+    },
+    {
+      "title": "Tiktok Pasta: Super Easy Baked Feta Pasta",
+      "description": "The tiktok pasta everyone is talking about: baked feta pasta has it all, big bold flavors, creamy comfort, and carbs!\nBaked feta pasta is the perfect fall comfort food: it’s creamy, tomato-y, and SO damn delicious. It’s probably the simplest pasta dish you’ll make this month and the reward is so high for an incredibly low effort.\n\nWhat is this tiktok pasta trend?..\n\nIt’s super simple: cherry tomatoes are tossed with olive oil and placed in a baking dish with a block of feta. Everything gets baked up until the tomatoes burst, releasing their sweet and jammy flavors. The feta gets melty and oozy. You mix it all up into a quick sauce, toss in minced garlic, basil, crushed red pepper, and pasta. Boom, dinner is done!",
+      "published": true,
+      "id": 2
+    },
+    {
+      "id": 7,
+      "title": "Traditional soft German pretzels for all your Oktoberfest needs",
+      "description": "Pretzels are a traditional German bread shaped into a pretzel knot made from a long loop of dough that’s twisted back onto itself. All pretzels are given a lye/alkaline water bath that gives pretzels their signature shiny chewy crust and undeniable pretzel flavor. Pretzels come in hard (snacking pretzels) and soft, like these ones and the ones you find at the mall at Auntie Anne’s.\n\nSoft pretzel ingredients\n\nIf you’ve made bread before, you can make pretzels! The dough is made out of the same ingredients, plus a little special addition: beer. For these pretzels, you’ll need: instant yeast, water, brown sugar, bread flour, beer, butter, salt, baking soda, and an egg yolk. Easy peasy. I bet you have everything in your pantry right now. The beer adds an extra malty flavor, but if you don’t want to use it, just substitute water.",
+      "published": true
+    },
+    {
+      "title": "The Best Chocolate Mug Cake (2)",
+      "description": "Mug cake is a cake that’s made in a mug! It bakes up in just a minute in the microwave and is a warm and chocolate-y treat that will satisfy any chocolate sweet tooth. Mug cake is perfect for when you just want a single serving of cake and don’t want to bust out all your baking equipment.\n\nEach microwave is different in strength so the very first time you make this recipe try experimenting a bit. I find that 1 minute plus 10 seconds in my microwave works best, but you might need a bit extra. Because this recipe doesn’t have any eggs in it, you can have it on the gooey side if you love cake batter.\n\nThe kind of mug you use matters! One that has straight sides is best and bigger is better. Use a mug that holds at least 1 and 3/4 cups. If you use a smaller mug, you should put the mug on a plate so you can catch the overflow, which will make clean up easier.",
+      "id": 8,
+      "published": true
+    },
+    {
+      "title": "Velveeta Mac and Cheese",
+      "description": "Velveeta is the absolutely best nostalgic cheese. It’s the cheese I grew up eating and it makes for the SMOOTHEST cheese sauce ever. It’s makes mac and cheese gooey, cheesy, creamy, and so good. Velveeta shells and cheese is the ultimate taste memory that brings me right back to all the good things about being a kid.\n\nThe reason why this particular Velveeta mac and cheese is amazing is because it uses the super smooth power of Velveeta but also has the extra added bonus of 1/2 cup of shredded cheddar. You can’t skip out on the Velveeta, but you can switch out the cheddar for your favorite cheese! ",
+      "id": 9
+    },
+    {
+      "title": "Foolproof Spatchcock Turkey",
+      "description": "Spatchcocking is a fancy way of saying removing the backbone and flattening the bird before you roast it. It’s superior to roasting a bird whole because it makes for even cooking, since the thighs aren’t covered by the legs and the delicate white meat isn’t exposed right up top. It also makes for crispier skin, better presentation, and lets you use the backbone and other bits to make gravy and stock right away.\n\nSpatchcock turkey is always juicy and delicious anyway so you don’t need to! If you normally brine your turkey, you should keep on doing you – this is no different than roasting the whole bird. If you never have brined a turkey before though, there’s no need to and brining can often end up with saltier meat than you’re used to.",
+      "published": true,
+      "id": 10
+    }
+  ]
+}

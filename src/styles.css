@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto:wght@400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans&family=Signika:wght@700&display=swap');
+html {
+    font-family: 'Roboto', sans-serif;
+    
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    
+     
+}
+    
+
+label{
+    color:rgb(113, 11, 103);
+    font-family: 'Signika', sans-serif;
+}
+
