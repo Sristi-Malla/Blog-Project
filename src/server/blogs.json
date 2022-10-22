@@ -19,7 +19,7 @@
       "published": true
     },
     {
-      "title": "The Best Chocolate Mug Cake (2)",
+      "title": "The Best Chocolate Mug Cake",
       "description": "Mug cake is a cake that’s made in a mug! It bakes up in just a minute in the microwave and is a warm and chocolate-y treat that will satisfy any chocolate sweet tooth. Mug cake is perfect for when you just want a single serving of cake and don’t want to bust out all your baking equipment.\n\nEach microwave is different in strength so the very first time you make this recipe try experimenting a bit. I find that 1 minute plus 10 seconds in my microwave works best, but you might need a bit extra. Because this recipe doesn’t have any eggs in it, you can have it on the gooey side if you love cake batter.\n\nThe kind of mug you use matters! One that has straight sides is best and bigger is better. Use a mug that holds at least 1 and 3/4 cups. If you use a smaller mug, you should put the mug on a plate so you can catch the overflow, which will make clean up easier.",
       "id": 8,
       "published": true
@@ -34,6 +34,22 @@
       "description": "Spatchcocking is a fancy way of saying removing the backbone and flattening the bird before you roast it. It’s superior to roasting a bird whole because it makes for even cooking, since the thighs aren’t covered by the legs and the delicate white meat isn’t exposed right up top. It also makes for crispier skin, better presentation, and lets you use the backbone and other bits to make gravy and stock right away.\n\nSpatchcock turkey is always juicy and delicious anyway so you don’t need to! If you normally brine your turkey, you should keep on doing you – this is no different than roasting the whole bird. If you never have brined a turkey before though, there’s no need to and brining can often end up with saltier meat than you’re used to.",
       "published": true,
       "id": 10
+    },
+    {
+      "title": "Honey Garlic Chicken",
+      "description": "Sweet and sticky, savory and garlicky, honey garlic chicken is always the answer when I don’t know what to make for dinner.\n\nIt’s the quickest dish to whip up and aside from the chicken, is a straight up pantry recipe. A side of greens and some fluffy rice and you’re set!\nThis is the best 5 ingredient back pocket recipe. Honey garlic is my jam: I can eat it on literally everything, including toast. It’s one of the easiest most flavorful sauces you can make at home and is a definite crowd pleaser.",
+      "id": 14,
+      "published": true
+    },
+    {
+      "title": "Hainanese Chicken Rice: The Best Easy One Pot Chicken and Rice Recipe",
+      "description": "If you’re looking for your next hands-off, delicious one pot dinner, this is it: Hainanese chicken.\n\nHave you ever had Hainanese chicken rice before? Are you as obsessed with it as I am? I’m guessing the answer is no because I have a lifelong, deep obsession with chicken rice.\n\nIt’s my ultimate comfort food, my all-time-favorite go to meal, my version of Anton Ego’s mom’s ratatouille. You know, the scene in in the Pixar movie where Anton is taken back to his mom’s kitchen and she serves him ratatouille and all is right with the world. That’s Hainanese chicken rice for me.",
+      "id": 15
+    },
+    {
+      "title": "Grown Up Buttered Noodles: Garlicky Brown Butter Parmesan Noodles",
+      "description": "Grown up buttered noodles! Garlicky brown butter parmesan noodles are here to save the day.\n\nDo you have a go-to nostalgic kid food? That food that you’d always eat even after a serious food strike? The one your parents would give into just so they were sure you didn’t die from lack of calories, forget about nutrition? For me it was plain white rice. No soy sauce, no seasoning, no anything but delicious plain white rice. For my childhood best friend, it was buttered noodles. Whenever we’d have a play date, that’s what her mom would make us because it was literally the only thing she would eat. After my very first bowl, I was hooked. What’s not to love about a bowl of buttery carbs, made with love?If you love buttered noodles, you’re going to love garlic buttered noodles. Everyone knows that butter noodles are delicious but if you want to up your cooking game and make something that you crave again and again, garlic butter noodles is where it’s at. Cooking garlic in butter makes it mellow and irresistible – your house will fill up with ALL the delicious smells. These garlic butter noodles are doubly good because the butter is browned for an extra layer of nutty toasty flavor. Showering everything with a generous amount of parm is a pro move too.\n",
+      "id": 16
     }
   ]
 }

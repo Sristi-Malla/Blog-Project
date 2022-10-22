@@ -1,41 +1,42 @@
-<div class ="list row">
-    <div class="col-md-8">
-      <div class="input-group mb-3">
+<div class ="list row justify-content-md-center">
+    <div class="col-md-6">
+      <div class="input-group">
         <input
           type="text"
-          class="form-control"
+          class="form-control rounded"
           placeholder="Search by title"
+          aria-label="Search" aria-describedby="search-addon"
           [(ngModel)]="title"
-        /> &nbsp;
+        />
+       &nbsp;
         <div class="input-group-append">
           <button
-            class="btn btn-outline-secondary"
+            class="btn btn-secondary"
             type="button"
             (click)="searchTitle()"
           >
+          
             Search
           </button>
         </div>
       </div>
     </div>
-    <div class="col-md-6">
-      <h4>Blog List</h4>
-      <ul class="list-group">
-        <li
-          class="list-group-item"
-          *ngFor="let blog of blogs; let i = index"
-          [class.active]="i == currentIndex"
-          (click)="setActiveBlog(blog, i)"
-        >
-          {{ blog.title }}
-        </li>
-      </ul>
-  
-      <button class="m-3 btn btn-sm btn-danger" (click)="removeAllBlogs()">
-        Remove All
-      </button>
-    </div>
-    <div class="col-md-6">
+    <div>
+      <br>
+      <div class="container">
+      
+        <div class="row card-deck" style="margin-left :15%;">
+          <div class="card  mb-3 col  col-md-3" style="margin-right :2%;" id="ex" 
+            
+            *ngFor="let blog of blogs; let i = index"
+            [class.active]="i == currentIndex"
+            (click)="setActiveBlog(blog, i)" routerLink="/blogs/{{blog.id}}">
+          
+            {{ blog.title }}
+          </div>
+        </div>
+
+    <div>
       <app-blog-details
       
       [viewMode]="true"
