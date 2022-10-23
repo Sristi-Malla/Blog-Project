@@ -3,8 +3,6 @@ import { HttpClient,HttpErrorResponse, HttpHeaders } from '@angular/common/http'
 import { Observable, throwError } from 'rxjs';
 import { Blog } from '../models/blog.model';
 import { catchError } from 'rxjs/operators';
-
-
 @Injectable({
   providedIn: 'root'
 })
@@ -24,7 +22,7 @@ export class BlogService {
       catchError(this.handleError)
     );
   }
-
+  
   create(data: any): Observable<any> {
     return this.http.post(this.baseUrl, data).pipe(
       catchError(this.handleError)
